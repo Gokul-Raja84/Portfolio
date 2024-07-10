@@ -14,7 +14,7 @@ export const InfiniteMovingCards = ({
 }: {
   skills: Array<[string, ReactNode]>;
   direction?: "left" | "right";
-  speed?: "fast" | "normal" | "fast";
+  speed?: "fast" | "normal" | "slow";
   pauseOnHover?: boolean;
   className?: string;
 }) => {

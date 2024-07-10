@@ -26,7 +26,7 @@ export function SkillsScrolling() {
           key={index}
           skills={chunk}
           direction={index % 2 === 0 ? "right" : "left"} // alternate direction
-          speed="fast"
+          speed="slow"
         />
       ))}
     </div>
