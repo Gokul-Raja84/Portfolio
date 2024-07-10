@@ -17,7 +17,7 @@ export default function Home({ data }: any) {
         <title>Gokul Raja Portfolio ⚡</title>
         <meta
           name="description"
-          content="Nikhil Kadam is a software developer and the founder of localhostcoders, a community that provides valuable resources for beginner developers. Explore Nikhil's latest projects and accomplishments, and learn more about his expertise in software development. Connect with Nikhil today to collaborate on your next software development project."
+          content="Gokul Raja is a software developer. Explore Gokul's latest projects and accomplishments, and learn more about his expertise in software development. Connect with Gokul today to collaborate on your next software development project."
         />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
