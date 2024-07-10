@@ -1,0 +1,40 @@
+{
+  "experience": [
+    {
+      "clogo": "/companyLogo/zeza-logo.png",
+      "title": "Software developer intern",
+      "company": "at, Cosmic Crafts",
+      "point1": "Led a student community in concept development and client engagement for app, web, and design solutions, showcasing leadership, strong teamwork and multitasking skills.",
+      "point2": "Developed and deployed websites and projects, actively contributing to coding, testing, and enhancing user experience.",
+      "startDate": "July, 2023",
+      "endDate": "October, 2023"
+    },
+    {
+      "clogo": "/companyLogo/srm.png",
+      "title": "Placement Representative",
+      "company": "SRM Institute of Science and Technology, Chennai",
+      "point1": "Served as a Placement Representative for the IT Department, assisting students in scheduling and organizing placement drives.",
+      "point2": "Coordinated students and tasks as a Department Representative, ensuring smooth communication and efficient task management within the IT Department.",
+      "startDate": "July, 2023",
+      "endDate": "Febraury, 2024"
+    },
+    {
+      "clogo": "/companyLogo/hashnode.png",
+      "title": "Technical content writer",
+      "company": "Gokul's Blog (gokulraja.hashnode.dev)",
+      "point1": "Currently developing my technical writing skills by building and writing blogs on various topics, including Python, JavaScript frameworks, Machine Learning, and Generative AI.",
+      "point2": "Hey, if you’re experienced with tech blogging, help me out!",
+      "startDate": "July, 2024",
+      "endDate": "Present"
+    },
+    {
+      "clogo": "/companyLogo/lhc.jpeg",
+      "title": "Founder",
+      "company": "localhost Developers community",
+      "point1": "Currently working on building a community for tech enthusiasts and developers, with a focus on supporting my batch mates, colleagues, and peers regarding internships and job opportunities.",
+      "point2": "Connect with me to build a community together!",
+      "startDate": "June, 2024",
+      "endDate": "Present"
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "data": {
+    "data": [
+      {
+        "id": 1,
+        "title": "DigitGlyph",
+        "content": "DigitGlyph is a machine learning web app that achieves 99.15% accuracy in recognizing handwritten digits. It leverages Python and Convolutional Neural Networks (CNNs) for its core functionality along with TensorFlow.js and hosted on GitHub Pages .",
+        "imgurl": "/projectSS/glyph.jpg",
+        "githubLink": "https://github.com/Nick-h4ck3r/quickflow",
+        "deployedLink": "https://quickflow-jet.vercel.app/",
+        "tech": [
+          {
+            "tech": "/skillsLogos/python.png"
+          },
+          {
+            "tech": "/skillsLogos/tensorflow.png"
+          },
+          {
+            "tech": "/skillsLogos/github.png"
+          },
+          {
+            "tech": "/skillsLogos/js.png"
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "title": "ACGAN",
+        "content": "Enhanced network security decision-making using Auxiliary Classifier Generative Adversarial Networks (ACGAN) for unbalanced data in network attacks. Led a team to achieve 90% accuracy in machine learning results. The project demonstrated leadership and technical expertise, and was accepted for publication in the Journal of Current Research in Engineering and Science.",
+        "imgurl": "/projectSS/ACGAN.jpg",
+        "githubLink": "https://github.com/Nick-h4ck3r/qr-code-component",
+        "deployedLink": "https://qr-code-component-nickk.netlify.app/",
+        "tech": []
+      },
+      {
+        "id": 3,
+        "title": "My Portfolio",
+        "content": "Portfolio website Created using Next.js with TailwindCSS and Framer Motion for styling, Utilized Sanity as the content management system.",
+        "imgurl": "/projectSS/portfoliogr.png",
+        "githubLink": "https://github.com/Nick-h4ck3r/portfolio-nextjs-latest",
+        "deployedLink": "https://nikhilkadam.vercel.app/",
+        "tech": [
+          {
+            "tech": "/skillsLogos/next-js.png"
+          },
+          {
+            "tech": "/skillsLogos/typescript.png"
+          },
+          {
+            "tech": "/skillsLogos/framer.png"
+          },
+          {
+            "tech": "/skillsLogos/tailwind.png"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "ImaGenAI-MERN",
+        "content": "ImaGenAI-DALLE-MERN is a text-to-image generation system that leverages OpenAI’s API and the MERN stack with TypeScript.",
+        "imgurl": "/projectSS/imagen.png",
+        "githubLink": "https://github.com/Nick-h4ck3r/property-project",
+        "deployedLink": "https://estatery.vercel.app/",
+        "tech": [
+          {
+            "tech": "/skillsLogos/react.png"
+          },
+          {
+            "tech": "/skillsLogos/typescript.png"
+          },
+          {
+            "tech": "/skillsLogos/mongodb.png"
+          },
+          {
+            "tech": "/skillsLogos/node.png"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Math Scribble",
+        "content": "Math Scribble is a Real time Handwritten Mathematical Expressions and Calculations System for Students using Deep Learning !",
+        "imgurl": "/projectSS/math.png",
+        "githubLink": "https://github.com/Nick-h4ck3r/movieSpace",
+        "deployedLink": "https://movie-space.netlify.app/",
+        "tech": [
+          {
+            "tech": "/skillsLogos/react.png"
+          },
+          {
+            "tech": "/skillsLogos/js.png"
+          },
+          {
+            "tech": "/skillsLogos/bootstrap.png"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "title": "Roomies-Scribble",
+        "content": "Roomies-Scribble built using Next.js, React, and Prisma for creating rooms, real-time chatting, and collaborative drawing, facilitates responsive web design and improves real-time collaboration and user experience by integrating WebSockets and Recoil ",
+        "imgurl": "/projectSS/roomies.png",
+        "githubLink": "https://github.com/Nick-h4ck3r/nextgen-nocode",
+        "deployedLink": "https://nextgen-nocode.vercel.app/",
+        "tech": [
+          {
+            "tech": "/skillsLogos/next-js.png"
+          },
+          {
+            "tech": "/skillsLogos/typescript.png"
+          },
+          {
+            "tech": "/skillsLogos/mongodb.png"
+          },
+          {
+            "tech": "/skillsLogos/react.png"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "title": "Taskify",
+        "content": "Taskify is a robust task management tool designed to streamline workflow and boost productivity, include effortless task management, categorized task organization, status tracking with checkboxes, quick deletion, user profile integration, sorting by due dates.",
+        "imgurl": "/projectSS/taskify.png",
+        "githubLink": "https://github.com/Nick-h4ck3r/task_list",
+        "deployedLink": "https://task-list-ivory.vercel.app/",
+        "tech": [
+          {
+            "tech": "/skillsLogos/html.png"
+          },
+          {
+            "tech": "/skillsLogos/css.png"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Music Recommendation - Data Analysis",
+        "content": "Music Recommendation by An Exploratory Data Analysis and Data Visualization project using Spotify data to extract insights. Analyzed over 50,000 songs and lead to a 15% improvement in personalized music recommendations through strategic insights using Spotipy.",
+        "imgurl": "/projectSS/data2.jpg",
+        "githubLink": "https://github.com/Nick-h4ck3r/airstay",
+        "deployedLink": "https://airstay.vercel.app/",
+        "tech": [
+          {
+            "tech": "/skillsLogos/python.png"
+          },
+          {
+            "tech": "/skillsLogos/sql1.png"
+          },
+          {
+            "tech": "/skillsLogos/numpy.png"
+          },
+          {
+            "tech": "/skillsLogos/pandas1.png"
+          },
+          {
+            "tech": "/skillsLogos/data.png"
+          }
+        ]
+      }
+    ]
+  }
+}
