@@ -43,7 +43,9 @@ export default function Header({}: Props) {
           </li>
           <li>
             <a
-              href="https://github.com/Nick-h4ck3r"
+              href="https://github.com/Gokul-Raja84"
+              target="_blank"
+              rel="noreferrer"
               className="text-gray-800 hover:text-gray-900 dark:hover:text-white dark:text-gray-400"
             >
               <svg
@@ -62,7 +64,9 @@ export default function Header({}: Props) {
           </li>
           <li>
             <a
-              href="https://www.linkedin.com/in/nickk2305/"
+              href="https://www.linkedin.com/in/gokulraja84/"
+              target="_blank"
+              rel="noreferrer"
               className="text-gray-800 hover:text-gray-900 dark:hover:text-white dark:text-gray-400"
             >
               <svg
