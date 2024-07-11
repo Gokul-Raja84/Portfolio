@@ -3,6 +3,10 @@ import { motion } from "framer-motion";
 
 type Props = {};
 
+console.log(
+  "Hey, sneaky developer 👀, Website designed and developed by Gokul Raja ⚡"
+);
+
 export default function BackgroundCircles({}: Props) {
   return (
     <motion.div
