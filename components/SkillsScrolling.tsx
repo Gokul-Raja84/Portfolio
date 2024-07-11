@@ -10,12 +10,14 @@ export function SkillsScrolling() {
   >([]);
 
   useEffect(() => {
-    const skillsArr = Object.entries(STACKS);
-    const chunkSize = Math.ceil(skillsArr.length / 3); // Divide into 3 rows
-    const chunkedArray = Array.from({ length: 3 }, (_, index) =>
-      skillsArr.slice(index * chunkSize, (index + 1) * chunkSize)
-    );
-    setShuffledSkillsChunks(chunkedArray);
+    if (typeof window !== "undefined") {
+      const skillsArr = Object.entries(STACKS);
+      const chunkSize = Math.ceil(skillsArr.length / 3); // Divide into 3 rows
+      const chunkedArray = Array.from({ length: 3 }, (_, index) =>
+        skillsArr.slice(index * chunkSize, (index + 1) * chunkSize)
+      );
+      setShuffledSkillsChunks(chunkedArray);
+    }
   }, []);
 
   return (
