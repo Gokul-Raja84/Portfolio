@@ -11,10 +11,9 @@ export function SkillsScrolling() {
 
   useEffect(() => {
     const skillsArr = Object.entries(STACKS);
-    const shuffledArray = [...skillsArr].sort(() => Math.random() - 0.5);
-    const chunkSize = Math.ceil(shuffledArray.length / 4); // Divide into 4 rows
-    const chunkedArray = Array.from({ length: 4 }, (_, index) =>
-      shuffledArray.slice(index * chunkSize, (index + 1) * chunkSize)
+    const chunkSize = Math.ceil(skillsArr.length / 3); // Divide into 3 rows
+    const chunkedArray = Array.from({ length: 3 }, (_, index) =>
+      skillsArr.slice(index * chunkSize, (index + 1) * chunkSize)
     );
     setShuffledSkillsChunks(chunkedArray);
   }, []);
