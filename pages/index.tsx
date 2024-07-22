@@ -20,6 +20,10 @@ export default function Home({ data }: any) {
           content="Gokul Raja is a software developer. Explore Gokul's latest projects and accomplishments, and learn more about his expertise in software development. Connect with Gokul today to collaborate on your next software development project."
         />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <meta
+          name="google-adsense-account"
+          content="ca-pub-3923445118031594"
+        ></meta>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
